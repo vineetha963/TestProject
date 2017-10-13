@@ -1,1 +1,2 @@
 this is file 3
+file 3 is modified for reset
